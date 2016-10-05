@@ -9,3 +9,15 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# Touch Command
+```
+Touch file.txt
+```
+
+About Touch Command:
+
+- Creates a new **file** inside the working directory.
+- `Touch file{1..3}.txt` creates 3 of the file.
+    
+
